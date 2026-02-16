@@ -13,4 +13,4 @@ a = 6
 
 print("Govind")
 
-print("This is 2nd day of git lear")
+print("This is 2nd day of git learn")

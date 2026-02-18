@@ -13,7 +13,6 @@ a = 6
 a = 5
 
 print("Govind")
-<<<<<<< HEAD
 
 print("This is 2nd day of git")
 
@@ -24,6 +23,5 @@ print("This is 2nd day of git learn")
 
 print("asdsaf")
 
-=======
+
 print("This is 2nd day of git")
->>>>>>> parent of 6d1976b (WIP: mistake line pushed)

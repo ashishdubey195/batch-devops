@@ -20,6 +20,7 @@ print("This is 2nd day of git")
 print("AYZ---B")
 
 print ("rebase in master")
+print("rebase 2 in master")
 
 
 

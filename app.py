@@ -29,7 +29,12 @@ print("rebase 2 in master")
 =======
 print("XYZ --- ABCD")
 
+<<<<<<< HEAD
 >>>>>>> 2d337a4 (Feature A- XYZ)
+=======
+print("rebase commit")
+
+>>>>>>> 3f3a159 (rebase commit 1 in featureA)
 
 
 

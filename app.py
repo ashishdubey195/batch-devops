@@ -23,8 +23,13 @@ print("Feature A")
 
 print("Feature B")
 
+<<<<<<< HEAD
 print ("rebase in master")
 print("rebase 2 in master")
+=======
+print("XYZ --- ABCD")
+
+>>>>>>> 2d337a4 (Feature A- XYZ)
 
 
 

@@ -50,4 +50,5 @@ print("CherryPicking")
 print("XYZ--PICKING")
 >>>>>>> f41a95c (picking cherry)
 
+print("Picking a commit")
 

@@ -23,25 +23,10 @@ print("Feature A")
 
 print("Feature B")
 
-
 print ("rebase in master")
 print("rebase 2 in master")
 
-print("XYZ --- ABCD")
-
-
-
-
-print("rebase commit")
-
-
-print("rebase commit")
-
-
-print("XYZ --- ABCD")
-
-
-
-
+print("CHERRY PICKING")
+print("hi")
 
 

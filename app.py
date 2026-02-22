@@ -23,22 +23,24 @@ print("Feature A")
 
 print("Feature B")
 
-<<<<<<< HEAD
+
 print ("rebase in master")
 print("rebase 2 in master")
-=======
+
 print("XYZ --- ABCD")
 
-<<<<<<< HEAD
->>>>>>> 2d337a4 (Feature A- XYZ)
-=======
+
+
+
 print("rebase commit")
 
-<<<<<<< HEAD
->>>>>>> 3f3a159 (rebase commit 1 in featureA)
-=======
+
 print("rebase commit")
->>>>>>> eca09a3 (rebase commit 2 in featureA)
+
+
+print("XYZ --- ABCD")
+
+
 
 
 
